@@ -36,55 +36,45 @@ Untuk menetapkan konten sebagai unordered list kita gunakan <ul></ul> kemudian d
 
 <p>Pada ordered list, tipe urutan angkanya dapat kita atur melalui sebuah atribut type. Contohnya, selain nomor, urutan angka dapat diganti dengan alfabet ataupun angka romawi.</p>
 
-<table border="1" cellspacing="0" cellpadding="0">
-
-<thead>
-<tr>
-    <th>Nilai</th>  
-    <th >Deskripsi</th>  
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>1</td> 
-</tr>
-
-<tr>
-<td>a</td>
-</tr>
-
-<tr>
-<td>A</td>
-</tr>
-
-<tr>
-<td>i</td></tr>
-<tr>
-<td>I</td>
-</tr>
-
- 
-  <tr><td>Menggunakan angka dalam urutan item (default).</td><tr>
-  <td>Menggunakan huruf kecil dalam urutan item.</td> 
-<td>Menggunakan huruf besar dalam urutan item.</td> 
- <td>Menggunakan huruf romawi kecil dalam urutan item.</td> 
-  <td>Menggunakan huruf romawi besar dalam urutan item.</td> 
-  </tr>
-</tbody>
-
-
-
- <tfoot>
-<tr>
+<table border="1" cellspacing="0" cellpadding="10">
+  <tr>
     <th>Nilai</th>  
     <th>Deskripsi</th>  
-</tr>
- </tfoot>
+  </tr>
 
+  <tbody>
+    <tr>
+    <td>1</td> 
+    <td>Menggunakan angka dalam urutan item (default).</td>
+    </tr>
 
-</table>
+   <tr>
+        <td>a</td>
+        <td>Menggunakan huruf kecil dalam urutan item.</td>
+    </tr>
 
+   <tr>
+        <td>A</td>
+        <td>Menggunakan huruf besar dalam urutan item.</td>
+    </tr>
+
+  <tr>
+        <td>i</td>
+        <td>Menggunakan huruf romawi kecil dalam urutan item.</td>
+    </tr>
+
+  <tr>
+        <td>I</td>
+        <td>Menggunakan huruf romawi besar dalam urutan item.</td>
+    </tr>
+  </tbody>
+     <tfoot>
+    <tr>
+        <th>Nilai</th>  
+        <th>Deskripsi</th>  
+    </tr>
+     </tfoot>
+    </table>
 
 
 
