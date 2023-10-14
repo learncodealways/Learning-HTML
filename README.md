@@ -63,9 +63,6 @@ Untuk menetapkan konten sebagai unordered list kita gunakan <ul></ul> kemudian d
 <tr>
 <td>I</td>
 </tr>
-</tbody>
-
-<tbody>
 
  
   <tr><td>Menggunakan angka dalam urutan item (default).</td>
