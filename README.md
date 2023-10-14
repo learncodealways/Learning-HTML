@@ -68,11 +68,12 @@ Untuk menetapkan konten sebagai unordered list kita gunakan <ul></ul> kemudian d
 <tbody>
 
  
-  <tr><td>Menggunakan angka dalam urutan item (default).</td> </tr>
-  <tr><td>Menggunakan huruf kecil dalam urutan item.</td> </tr>
-  <tr><td>Menggunakan huruf besar dalam urutan item.</td> </tr>
-  <tr><td>Menggunakan huruf romawi kecil dalam urutan item.</td> </tr>
-  <tr><td>Menggunakan huruf romawi besar dalam urutan item.</td> </tr>
+  <tr><td>Menggunakan angka dalam urutan item (default).</td>
+  <td>Menggunakan huruf kecil dalam urutan item.</td> 
+<td>Menggunakan huruf besar dalam urutan item.</td> 
+ <td>Menggunakan huruf romawi kecil dalam urutan item.</td> 
+  <td>Menggunakan huruf romawi besar dalam urutan item.</td> 
+  </tr>
 </tbody>
 
 
