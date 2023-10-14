@@ -40,8 +40,8 @@ Untuk menetapkan konten sebagai unordered list kita gunakan <ul></ul> kemudian d
 
 <thead>
 <tr>
-    <th colspan="2">Nilai</th>  
-    <th colspan="4">Deskripsi</th>  
+    <th>Nilai</th>  
+    <th >Deskripsi</th>  
 </tr>
 </thead>
 
@@ -77,8 +77,8 @@ Untuk menetapkan konten sebagai unordered list kita gunakan <ul></ul> kemudian d
 
  <tfoot>
 <tr>
-    <th colspan="2">Nilai</th>  
-    <th colspan="4">Deskripsi</th>  
+    <th>Nilai</th>  
+    <th>Deskripsi</th>  
 </tr>
  </tfoot>
 
