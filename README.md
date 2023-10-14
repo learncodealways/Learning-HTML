@@ -36,7 +36,7 @@ Untuk menetapkan konten sebagai unordered list kita gunakan <ul></ul> kemudian d
 
 <p>Pada ordered list, tipe urutan angkanya dapat kita atur melalui sebuah atribut type. Contohnya, selain nomor, urutan angka dapat diganti dengan alfabet ataupun angka romawi.</p>
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="1" cellspacing="0" cellpadding="0">
 
 <thead>
 <tr>
